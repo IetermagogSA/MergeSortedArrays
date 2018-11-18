@@ -1,0 +1,6 @@
+H:\Programming\Projects\SortedArrays\SortedArrays\bin\Debug\SortedArrays.exe.config
+H:\Programming\Projects\SortedArrays\SortedArrays\obj\Debug\SortedArrays.csprojResolveAssemblyReference.cache
+H:\Programming\Projects\SortedArrays\SortedArrays\bin\Debug\SortedArrays.exe
+H:\Programming\Projects\SortedArrays\SortedArrays\bin\Debug\SortedArrays.pdb
+H:\Programming\Projects\SortedArrays\SortedArrays\obj\Debug\SortedArrays.exe
+H:\Programming\Projects\SortedArrays\SortedArrays\obj\Debug\SortedArrays.pdb
